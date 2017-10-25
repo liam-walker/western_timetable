@@ -55,6 +55,7 @@ def compare_section_to_course(section, course):
         if conflict:
             break
         x += 1
+        #hello
     return conflict
 
 
